@@ -1,7 +1,6 @@
 # Instalación de Jenkins en Docker
 ````
 git clone https://github.com/falconsoft3d/jenkis-docker-compose.git
-git clone 
 docker-compose up -d
 ````
 
