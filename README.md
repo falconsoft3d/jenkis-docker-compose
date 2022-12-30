@@ -9,6 +9,9 @@ docker-compose up -d
 http://localhost:8080/
 ````
 
+````
+docker exec 79dc42e0a318 cat /var/jenkins_home/secrets/initialAdminPassword
+````
 
 # My contact data
 ```
